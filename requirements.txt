@@ -1,0 +1,6 @@
+torch (PyTorch)
+transformers (Hugging Face BERT)
+torchvision
+pandas
+scikit-learn
+PIL
